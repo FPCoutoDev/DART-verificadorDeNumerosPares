@@ -1,2 +1,3 @@
 # DART-verificadorDeNumerosPares
 Apenas um verificador de números pares feito com DART
+O verificadorDeNumerosPares.dart verifica uma lista e seleciona apenas os números divisiveis por 2 com resto 0, retornando a lista agora já filtrada, bem como a quantidade de caractéres pares. Apesar de simples, novamente é um marco no meu aprendizado com dart e lógica de programação, e fiquei muito feliz com o resultado.
